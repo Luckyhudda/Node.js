@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f2f2f2; margin: 0; padding: 0;">
+
+    <header style="background-color: #333; color: #fff; text-align: center; padding: 20px;">
+        <h1>404 - Page Not Found</h1>
+    </header>
+
+    <div style="max-width: 800px; margin: 20px auto; padding: 20px; background-color: #fff; border-radius: 5px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+        <p style="font-size: 18px; line-height: 1.5; text-align: center;">The page you are looking for could not be found. Please check the URL or return to the <a href="/" style="color: #007BFF;">home page</a>.</p>
+    </div>
+
+    <div style="text-align: center; margin-top: 20px;">
+        <button style="font-size: 18px; padding: 10px 20px; background-color: #007BFF; color: #fff; border: none; border-radius: 5px; cursor: pointer; transition: background-color 0.3s;">
+            Home
+        </button>
+    </div>
+
+    <script>
+        // Add hover effect to the "Home" button
+        const homeButton = document.querySelector('button');
+        homeButton.addEventListener('mouseover', function () {
+            this.style.backgroundColor = '#0056b3';
+        });
+        homeButton.addEventListener('mouseout', function () {
+            this.style.backgroundColor = '#007BFF';
+        });
+
+        // Redirect to the home page when the button is clicked
+        homeButton.addEventListener('click', function () {
+            window.location.href = '/';
+        });
+    </script>
+</body>
+</html>

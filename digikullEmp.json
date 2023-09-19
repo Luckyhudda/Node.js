@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "indianName": "Rahul Kumar",
+        "companyName": "Digikull",
+        "salary": 75000,
+        "position": "Software Engineer",
+        "behavior": "Friendly and cooperative"
+    },
+    {
+        "id": 2,
+        "indianName": "Priya Patel",
+        "companyName": "Digikull",
+        "salary": 65000,
+        "position": "Data Analyst",
+        "behavior": "Detail-oriented and dedicated"
+    },
+    {
+        "id": 3,
+        "indianName": "Amit Singh",
+        "companyName": "Digikull",
+        "salary": 85000,
+        "position": "Product Manager",
+        "behavior": "Leadership and strategic thinking"
+    },
+    {
+        "id": 4,
+        "indianName": "Sneha Sharma",
+        "companyName": "Digikull",
+        "salary": 60000,
+        "position": "UI/UX Designer",
+        "behavior": "Creative and innovative"
+    },
+    {
+        "id": 5,
+        "indianName": "Ankit Verma",
+        "companyName": "Digikull",
+        "salary": 70000,
+        "position": "Database Administrator",
+        "behavior": "Analytical and organized"
+    },
+    {
+        "id": 6,
+        "indianName": "Neha Gupta",
+        "companyName": "Digikull",
+        "salary": 55000,
+        "position": "Quality Assurance Tester",
+        "behavior": "Thorough and detail-oriented"
+    },
+    {
+        "id": 7,
+        "indianName": "Vikas Yadav",
+        "companyName": "Digikull",
+        "salary": 90000,
+        "position": "Network Administrator",
+        "behavior": "Technical expertise and problem-solving"
+    },
+    {
+        "id": 8,
+        "indianName": "Kavita Joshi",
+        "companyName": "Digikull",
+        "salary": 80000,
+        "position": "Marketing Specialist",
+        "behavior": "Creative and results-driven"
+    },
+    {
+        "id": 9,
+        "indianName": "Rajesh Malhotra",
+        "companyName": "Digikull",
+        "salary": 95000,
+        "position": "Business Analyst",
+        "behavior": "Analytical and strategic"
+    },
+    {
+        "id": 10,
+        "indianName": "Anjali Kapoor",
+        "companyName": "Digikull",
+        "salary": 70000,
+        "position": "Project Manager",
+        "behavior": "Organized and leadership"
+    },
+    {
+        "id": 11,
+        "indianName": "Suresh Verma",
+        "companyName": "Digikull",
+        "salary": 78000,
+        "position": "DevOps Engineer",
+        "behavior": "Technical expertise and collaboration"
+    },
+    {
+        "id": 12,
+        "indianName": "Reena Singh",
+        "companyName": "Digikull",
+        "salary": 72000,
+        "position": "HR Manager",
+        "behavior": "People-oriented and organized"
+    },
+    {
+        "id": 13,
+        "indianName": "Vijay Sharma",
+        "companyName": "Digikull",
+        "salary": 88000,
+        "position": "Sales Representative",
+        "behavior": "Customer-focused and persuasive"
+    },
+    {
+        "id": 14,
+        "indianName": "Meera Gupta",
+        "companyName": "Digikull",
+        "salary": 64000,
+        "position": "Database Developer",
+        "behavior": "Technical skills and problem-solving"
+    },
+    {
+        "id": 15,
+        "indianName": "Sanjay Kapoor",
+        "companyName": "Digikull",
+        "salary": 82000,
+        "position": "Cybersecurity Analyst",
+        "behavior": "Security-conscious and analytical"
+    },
+    {
+        "id": 16,
+        "indianName": "Neha Sharma",
+        "companyName": "Digikull",
+        "salary": 60000,
+        "position": "Content Writer",
+        "behavior": "Creative and detail-oriented"
+    },
+    {
+        "id": 17,
+        "indianName": "Avinash Verma",
+        "companyName": "Digikull",
+        "salary": 89000,
+        "position": "System Architect",
+        "behavior": "Technical expertise and visionary"
+    },
+    {
+        "id": 18,
+        "indianName": "Pooja Joshi",
+        "companyName": "Digikull",
+        "salary": 71000,
+        "position": "Data Scientist",
+        "behavior": "Analytical and data-driven"
+    },
+    {
+        "id": 19,
+        "indianName": "Rajat Singh",
+        "companyName": "Digikull",
+        "salary": 74000,
+        "position": "Technical Support Engineer",
+        "behavior": "Customer-centric and problem-solving"
+    },
+    {
+        "id": 20,
+        "indianName": "Suman Verma",
+        "companyName": "Digikull",
+        "salary": 68000,
+        "position": "Financial Analyst",
+        "behavior": "Analytical and finance expertise"
+    }
+]
