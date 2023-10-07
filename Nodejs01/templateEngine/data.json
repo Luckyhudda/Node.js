@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "age": 20,
+        "major": "Computer Science"
+    },
+    {
+        "id": 2,
+        "name": "Alice Johnson",
+        "age": 21,
+        "major": "Engineering"
+    },
+    {
+        "id": 3,
+        "name": "Sarah Davis",
+        "age": 19,
+        "major": "Mathematics"
+    },
+    {
+        "id": 4,
+        "name": "Michael Wilson",
+        "age": 22,
+        "major": "Physics"
+    },
+    {
+        "id": 5,
+        "name": "Emily Brown",
+        "age": 20,
+        "major": "Biology"
+    },
+    {
+        "id": 6,
+        "name": "Daniel Lee",
+        "age": 21,
+        "major": "Chemistry"
+    },
+    {
+        "id": 7,
+        "name": "Olivia Martinez",
+        "age": 19,
+        "major": "History"
+    },
+    {
+        "id": 8,
+        "name": "William Taylor",
+        "age": 22,
+        "major": "Psychology"
+    },
+    {
+        "id": 9,
+        "name": "Ava White",
+        "age": 20,
+        "major": "English"
+    },
+    {
+        "id": 10,
+        "name": "Ethan Harris",
+        "age": 21,
+        "major": "Economics"
+    }
+]
